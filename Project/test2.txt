@@ -1,0 +1,5 @@
+if X <= Y then
+write X;
+else
+write Y;
+end;
